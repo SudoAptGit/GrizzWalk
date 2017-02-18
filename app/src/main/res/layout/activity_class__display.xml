@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.grizzzwalk.mjschmidt.grizzwalk.Class_Display">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@android:drawable/ic_input_add"
+        app:backgroundTint="@android:color/holo_red_dark" />
+
+    <include layout="@layout/content_class__display"
+        android:layout_height="443dp" />
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="Calendar View"
+                android:layout_width="137dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/month_view_button"
+                android:background="@android:color/holo_green_dark" />
+
+            <Button
+                android:text="Get Building Directions"
+                android:layout_width="154dp"
+                android:layout_height="match_parent"
+                android:id="@+id/getDirections"
+                android:background="@android:color/holo_green_light" />
+
+            <Button
+                android:text="Clear Classes"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/resetall"
+                android:layout_weight="1"
+                android:background="@color/colorAccent" />
+        </LinearLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+</android.support.design.widget.CoordinatorLayout>

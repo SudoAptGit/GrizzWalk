@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.grizzzwalk.mjschmidt.grizzwalk.Add_Classes"
+    android:background="@color/colorPrimaryDark">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="Add a Class" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="20sp"
+            android:paddingRight="20sp">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="57dp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="24dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblCourseName"
+                android:textSize="24sp"
+                android:text="Enter class name:"
+                android:layout_weight="1"
+                android:textColor="@color/settingTitles" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/txtCourseName"
+                android:singleLine="true"
+                android:layout_weight="1"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:text="Enter class start time:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblStartTime"
+                android:layout_weight="0.04"
+                android:textSize="24sp"
+                android:textColor="@color/settingTitles" />
+
+            <Button
+                android:text="choose time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btns"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textAlignment="viewStart"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:text="Enter class end time:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblEndTime"
+                android:textSize="24sp"
+                android:textColor="@color/settingTitles" />
+
+            <Button
+                android:text="choose time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btne"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:textAlignment="viewStart"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:text="Room Number:"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblRoomNumber"
+                android:textSize="24sp"
+                android:textColor="@color/settingTitles" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/txtRoomNumber"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:text="Days of the Week"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView11"
+                android:textColor="@color/settingTitles" />
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <CheckBox
+                        android:text="Monday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/chkMonday"
+                        android:textColor="@android:color/white"
+                        android:layout_weight="1"
+                        app:buttonTint="@color/settingTitles" />
+
+                    <CheckBox
+                        android:text="Thursday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/chkThursday"
+                        android:textColor="@android:color/white"
+                        app:buttonTint="@color/settingTitles" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <CheckBox
+                        android:text="Tuesday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/chkTuesday"
+                        android:textColor="@android:color/white"
+                        app:buttonTint="@color/settingTitles" />
+
+                    <CheckBox
+                        android:text="Friday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/chkFriday"
+                        android:textColor="@android:color/white"
+                        app:buttonTint="@color/settingTitles" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <CheckBox
+                        android:text="Wednesday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/chkWednesday"
+                        android:textColor="@android:color/white"
+                        app:buttonTint="@color/settingTitles" />
+
+                    <CheckBox
+                        android:text="Saturday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/chkSaturday"
+                        android:textColor="@android:color/white"
+                        app:buttonTint="@color/settingTitles" />
+                </TableRow>
+
+            </TableLayout>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="50px" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:text="Add Class"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/btnSave"
+                    android:layout_weight="0.46"
+                    android:textColor="@android:color/white"
+                    android:background="@android:color/holo_green_dark" />
+
+                <Space
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:text="Reset Fields"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnResetAll"
+                    android:background="@color/colorAccent"
+                    android:textColor="@android:color/white"
+                    android:layout_weight="0.34" />
+
+            </LinearLayout>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="50px" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.design.widget.CoordinatorLayout>
