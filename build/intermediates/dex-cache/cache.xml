@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_78506a9c8db3da3978f8e58f894a16ac30962007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_bf449de262e8352941907368f88c7282548f695b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f6c9209e7c9b9f927fb183fad5736c8d2e4bfd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_47791a8aec019a162fc16986c213f01d46b37c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_0fcf1fdf54eef51872375186662b61085966ea05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0509e204c088449bdb5fd6810e816878c882f921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c51dc057beb9a8bcb95e4fbdfd140c6ada01de92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_558a3a3b6475ed94b41977faad1487f99057259d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ab49e321323fdf28d32fad4df4c7da6e0d4d67b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_266a19f1347ddb0d4451caba4790aa442acfc7f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_eb0e79ad5d2253d0fe10392b4a822cdd997f594c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_7ae89a29c3a1dba6ee767897eda2a248fb0aad0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e2554125e97d20aa965c208d74545d9871cc2798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_454b7ff0eca008548fd6bf6396d18b095e8348f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_fe6986fe71e47a4b0b3e1cefca9fed75f444e959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha9_188d45a09a7c0cce741044f3c13b2ca9d3680258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_4f9fc14320d1310c5028399f379c69c064d51ccd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_4759aa61bed23cdb73f21af084fd5709321152b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_21587b3134f2aaeb0047c38901229708e07c0e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zach\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Zach\AndroidStudioProjects\Grizzwalk 11-14-16\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha9_50278cee72f0372d7720df9d59a7f8452cc71df5.jar" />
+    </item>
+
+</items>
